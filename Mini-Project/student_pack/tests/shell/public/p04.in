@@ -1,0 +1,3 @@
+echo banana > a.txt
+echo apple > b.txt
+cat a.txt b.txt | sort

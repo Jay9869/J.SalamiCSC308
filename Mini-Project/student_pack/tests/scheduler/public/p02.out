@@ -1,0 +1,6 @@
+order: A B C D
+A wait=0 turnaround=5
+B wait=3 turnaround=6
+C wait=4 turnaround=5
+D wait=3 turnaround=7
+avg_wait=2.50 avg_turnaround=5.75

@@ -1,0 +1,5 @@
+mkdir sub
+cd sub
+echo inside > f.txt
+cd ..
+cat sub/f.txt

@@ -1,0 +1,5 @@
+order: P1 P2 P3 P1 P3
+P1 wait=8 turnaround=13
+P2 wait=4 turnaround=8
+P3 wait=9 turnaround=15
+avg_wait=7.00 avg_turnaround=12.00
